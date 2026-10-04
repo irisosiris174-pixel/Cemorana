@@ -206,7 +206,6 @@ export const CreditForm: React.FC = () => {
                   type="number"
                   name="amount"
                   min="3000"
-                  max="500000"
                   required
                   value={formData.amount}
                   onChange={handleChange}
@@ -220,7 +219,7 @@ export const CreditForm: React.FC = () => {
                   type="number"
                   name="duration"
                   min="12"
-                  max="144"
+                  max="360"
                   required
                   value={formData.duration}
                   onChange={handleChange}

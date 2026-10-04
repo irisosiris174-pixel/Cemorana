@@ -52,7 +52,7 @@ export const CreditSimulator: React.FC = () => {
           <input
             type="range"
             min="3000"
-            max="50000"
+            max="1000000"
             step="1000"
             value={amount}
             onChange={(e) => setAmount(Number(e.target.value))}
@@ -60,8 +60,8 @@ export const CreditSimulator: React.FC = () => {
           />
           <div className="flex justify-between text-xs text-slate-400">
             <span>3.000 €</span>
-            <span>25.000 €</span>
-            <span>50.000 €</span>
+            <span>500.000 €</span>
+            <span>1.000.000 €</span>
           </div>
         </div>
 
@@ -76,7 +76,7 @@ export const CreditSimulator: React.FC = () => {
           <input
             type="range"
             min="12"
-            max="120"
+            max="360"
             step="6"
             value={duration}
             onChange={(e) => setDuration(Number(e.target.value))}
@@ -84,8 +84,8 @@ export const CreditSimulator: React.FC = () => {
           />
           <div className="flex justify-between text-xs text-slate-400">
             <span>12 mois</span>
-            <span>60 mois</span>
-            <span>120 mois</span>
+            <span>180 mois</span>
+            <span>360 mois</span>
           </div>
         </div>
 
