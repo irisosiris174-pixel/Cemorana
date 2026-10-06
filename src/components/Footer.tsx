@@ -103,7 +103,10 @@ export const Footer: React.FC = () => {
             <h3 className="text-white text-base font-semibold tracking-wide">
               {t.contactInfo}
             </h3>
-            <img src="/logo.png" alt="Cemorana" className="h-10 w-auto object-contain mb-4" />
+            <div className="flex items-center gap-3 mb-4">
+              <img src="/logo.png" alt="Cemorana" className="h-10 w-auto object-contain" />
+              <span className="text-xl font-bold tracking-tight text-white">CEMORANA</span>
+            </div>
             <ul className="space-y-3 text-sm">
               <li className="flex items-center gap-3 text-slate-300">
                 <Mail className="w-4 h-4 text-[#16939d] shrink-0" />
