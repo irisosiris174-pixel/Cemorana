@@ -33,8 +33,6 @@ export const de: Translations = {
     readMore: 'Mehr über uns erfahren',
     points: [
       'Fester Zinssatz von 3% p.a. ohne Überraschungen',
-      'Flexible Laufzeiten von 12 bis 120 Monaten',
-      'Keine Vorkosten oder versteckten Gebühren',
       '100% digitale und vertrauliche Bearbeitung'
     ],
   },
@@ -179,7 +177,7 @@ export const de: Translations = {
     lastUpdated: 'Stand: Oktober 2026',
     companyInfo: 'Unternehmensangaben',
     companyName: 'Cemorana Financial Solutions',
-    address: 'Deutschland / Europa',
+    address: 'Kardinal-Faulhaber-Straße 12, 80333 München-Altstadt-Lehel, Allemagne',
     email: 'contact@cemorana.com',
     phone: '+49 157 79193294',
     regNumber: 'Registernummer: HRB-CEM-2026-EU',

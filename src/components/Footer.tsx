@@ -103,6 +103,7 @@ export const Footer: React.FC = () => {
             <h3 className="text-white text-base font-semibold tracking-wide">
               {t.contactInfo}
             </h3>
+            <img src="/logo.png" alt="Cemorana" className="h-10 w-auto object-contain mb-4" />
             <ul className="space-y-3 text-sm">
               <li className="flex items-center gap-3 text-slate-300">
                 <Mail className="w-4 h-4 text-[#16939d] shrink-0" />
@@ -118,7 +119,7 @@ export const Footer: React.FC = () => {
               </li>
               <li className="flex items-center gap-3 text-slate-300">
                 <MapPin className="w-4 h-4 text-[#16939d] shrink-0" />
-                <span>Deutschland / EU</span>
+                <span>Kardinal-Faulhaber-Straße 12, 80333 München-Altstadt-Lehel, Allemagne</span>
               </li>
             </ul>
           </div>

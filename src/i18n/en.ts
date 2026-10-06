@@ -33,8 +33,6 @@ export const en: Translations = {
     readMore: 'Learn More About Us',
     points: [
       'Fixed annual interest rate of 3% p.a. without surprises',
-      'Flexible repayment terms from 12 to 120 months',
-      'Zero upfront fees or hidden administration costs',
       '100% digital and confidential application process'
     ],
   },
@@ -179,7 +177,7 @@ export const en: Translations = {
     lastUpdated: 'Updated: October 2026',
     companyInfo: 'Company Information',
     companyName: 'Cemorana Financial Solutions',
-    address: 'Germany / Europe',
+    address: 'Kardinal-Faulhaber-Straße 12, 80333 München-Altstadt-Lehel, Allemagne',
     email: 'contact@cemorana.com',
     phone: '+49 157 79193294',
     regNumber: 'Registration Number: HRB-CEM-2026-EU',

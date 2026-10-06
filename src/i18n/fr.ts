@@ -33,8 +33,6 @@ export const fr: Translations = {
     readMore: 'En savoir plus sur nous',
     points: [
       'Taux d\'intérêt fixe de 3% p.a. sans aucune mauvaise surprise',
-      'Durées de remboursement flexibles de 12 à 120 mois',
-      'Aucun frais de dossier préalable ni frais cachés',
       'Procédure 100% digitale et strictement confidentielle'
     ],
   },
@@ -179,7 +177,7 @@ export const fr: Translations = {
     lastUpdated: 'Dernière mise à jour : Octobre 2026',
     companyInfo: 'Informations sur l\'entreprise',
     companyName: 'Cemorana Financial Solutions',
-    address: 'Allemagne / Europe',
+    address: 'Kardinal-Faulhaber-Straße 12, 80333 München-Altstadt-Lehel, Allemagne',
     email: 'contact@cemorana.com',
     phone: '+49 157 79193294',
     regNumber: 'Numéro d\'enregistrement : HRB-CEM-2026-EU',

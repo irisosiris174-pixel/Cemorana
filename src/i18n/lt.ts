@@ -33,8 +33,6 @@ export const lt: Translations = {
     readMore: 'Skaitykite daugiau apie mus',
     points: [
       'Fiksuota 3% metinė palūkanų norma be netikėtumų',
-      'Lankstus grąžinimo terminas nuo 12 iki 120 mėnesių',
-      'Jokių išankstinių ar paslėptų mokesčių',
       '100% skaitmeninis ir konfidencialus procesas'
     ],
   },
@@ -179,7 +177,7 @@ export const lt: Translations = {
     lastUpdated: 'Atnaujinta: 2026 m. spalis',
     companyInfo: 'Įmonės informacija',
     companyName: 'Cemorana Financial Solutions',
-    address: 'Vokietija / Europa',
+    address: 'Kardinal-Faulhaber-Straße 12, 80333 München-Altstadt-Lehel, Allemagne',
     email: 'contact@cemorana.com',
     phone: '+49 157 79193294',
     regNumber: 'Registracijos kodas: HRB-CEM-2026-EU',
