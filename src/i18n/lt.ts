@@ -33,7 +33,8 @@ export const lt: Translations = {
     readMore: 'Skaitykite daugiau apie mus',
     points: [
       'Fiksuota 3% metinė palūkanų norma be netikėtumų',
-      '100% skaitmeninis ir konfidencialus procesas'
+      '100% skaitmeninis ir konfidencialus procesas',
+      'Lanksti trukmė nuo 12 iki 360 mėnesių'
     ],
   },
   servicesBrief: {

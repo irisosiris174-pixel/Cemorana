@@ -33,7 +33,8 @@ export const en: Translations = {
     readMore: 'Learn More About Us',
     points: [
       'Fixed annual interest rate of 3% p.a. without surprises',
-      '100% digital and confidential application process'
+      '100% digital and confidential application process',
+      'Flexible duration from 12 to 360 months'
     ],
   },
   servicesBrief: {

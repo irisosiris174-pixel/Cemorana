@@ -33,7 +33,8 @@ export const fr: Translations = {
     readMore: 'En savoir plus sur nous',
     points: [
       'Taux d\'intérêt fixe de 3% p.a. sans aucune mauvaise surprise',
-      'Procédure 100% digitale et strictement confidentielle'
+      'Procédure 100% digitale et strictement confidentielle',
+      'Durée flexible de 12 à 360 mois'
     ],
   },
   servicesBrief: {

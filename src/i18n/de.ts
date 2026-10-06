@@ -33,7 +33,8 @@ export const de: Translations = {
     readMore: 'Mehr über uns erfahren',
     points: [
       'Fester Zinssatz von 3% p.a. ohne Überraschungen',
-      '100% digitale und vertrauliche Bearbeitung'
+      '100% digitale und vertrauliche Bearbeitung',
+      'Flexible Laufzeit von 12 bis 360 Monaten'
     ],
   },
   servicesBrief: {
